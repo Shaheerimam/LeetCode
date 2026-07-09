@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Shaheerimam/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Shaheerimam/LeetCode/tree/master/0242-valid-anagram) |
 ## String
 |  |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Shaheerimam/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Shaheerimam/LeetCode/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
@@ -74,4 +76,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Shaheerimam/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shaheerimam/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shaheerimam/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+## Array
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Shaheerimam/LeetCode/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Shaheerimam/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Shaheerimam/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
