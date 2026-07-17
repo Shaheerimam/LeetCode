@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Shaheerimam/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Shaheerimam/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/Shaheerimam/LeetCode/tree/master/0844-backspace-string-compare) |
+| [3834-merge-adjacent-equal-elements](https://github.com/Shaheerimam/LeetCode/tree/master/3834-merge-adjacent-equal-elements) |
 ## Design
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/Shaheerimam/LeetCode/tree/master/0844-backspace-string-compare) |
+| [3834-merge-adjacent-equal-elements](https://github.com/Shaheerimam/LeetCode/tree/master/3834-merge-adjacent-equal-elements) |
 ## Tree
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Shaheerimam/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Shaheerimam/LeetCode/tree/master/0169-majority-element) |
+| [3834-merge-adjacent-equal-elements](https://github.com/Shaheerimam/LeetCode/tree/master/3834-merge-adjacent-equal-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
